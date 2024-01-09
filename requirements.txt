@@ -1,0 +1,4 @@
+django
+crispy_forms
+ckeditor
+crispy_bootstrap4
