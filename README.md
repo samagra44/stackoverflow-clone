@@ -6,6 +6,8 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 
 - Created a new Django project.
 - Configured project settings including database setup, static files, and templates.
+  
+![SS1](https://github.com/samagra44/StackoverflowClone/assets/77968722/219ec0be-73f2-47a1-a376-34489f22f98e)
 
 ## 2. Creating Frontend with HTML and CSS
 
@@ -19,6 +21,10 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 ## 4. User Registration, Login, and Logout
 
 - Implemented user authentication with features for user registration, login, and logout.
+  
+![SS2](https://github.com/samagra44/StackoverflowClone/assets/77968722/e02618e1-e4e0-413d-aede-e0c5cc9d732c)
+
+![SS3](https://github.com/samagra44/StackoverflowClone/assets/77968722/b5b9a9d5-5b42-4d0d-b8c4-1a914baa5a3f)
 
 ## 5. Uploading Profile Picture and Profile Information
 
@@ -28,12 +34,18 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 ## 6. Editing Profile Details
 
 - Implemented functionality for users to edit their profile details.
+  
+![SS4](https://github.com/samagra44/StackoverflowClone/assets/77968722/a5d870b3-5528-4c8e-bfd3-096c22d8a5dc)
 
 ## 7. Post Question Detail
 
 - Developed the ability for users to post questions with details such as title, description, and tags.
+  
+![SS6](https://github.com/samagra44/StackoverflowClone/assets/77968722/4418ecfc-a98c-42a6-affa-b10bcbf97725)
 
 ## 8. Post Question in More Detail
+
+![SS5](https://github.com/samagra44/StackoverflowClone/assets/77968722/883dfdfe-eea9-4407-b409-342904b61092)
 
 - Enhanced the question posting feature to include more detailed information.
 
@@ -44,10 +56,14 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 ## 10. Comment Feature
 
 - Implemented a commenting system for users to add comments to questions and answers.
+  
+![SS7](https://github.com/samagra44/StackoverflowClone/assets/77968722/0078380e-5ab0-43ba-af52-0356e4fc835b)
 
 ## 11. Making Rich Text Editor
 
 - Integrated a rich text editor for users to format their questions, answers, and comments.
+  
+![SS7](https://github.com/samagra44/StackoverflowClone/assets/77968722/a2a82872-3c99-4d64-b8ef-5ea66bb39a2a)
 
 ## 12. Adding User Restrictions
 
@@ -56,6 +72,8 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 ## 13. Upvote and Downvote the Question Feature
 
 - Implemented the ability for users to upvote and downvote questions.
+  
+![SS6](https://github.com/samagra44/StackoverflowClone/assets/77968722/e77038c2-d88b-4c1b-9e47-46bc5500197b)
 
 ## 14. Search Feature
 
