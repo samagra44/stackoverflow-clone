@@ -6,12 +6,12 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 
 - Created a new Django project.
 - Configured project settings including database setup, static files, and templates.
-  
-![SS1](https://github.com/samagra44/StackoverflowClone/assets/77968722/219ec0be-73f2-47a1-a376-34489f22f98e)
 
 ## 2. Creating Frontend with HTML and CSS
 
 - Developed the frontend of the application using HTML and CSS to create a user-friendly interface.
+  
+  ![SS1](https://github.com/samagra44/StackoverflowClone/assets/77968722/219ec0be-73f2-47a1-a376-34489f22f98e)
 
 ## 3. Making Admin Page and Database
 
@@ -96,16 +96,25 @@ This web application is a replica of Stack Overflow, built using Python, Django,
 3. Apply migrations:
 
     ```bash
+    python manage.py makemigrations
+    ```
+4. Migrate the changes:
+   
+   ```bash
     python manage.py migrate
     ```
+5. Create Super USer:
+   ```
+   python manage.py createsuperuser
+   ```
 
-4. Run the development server:
+6. Run the development server:
 
     ```bash
     python manage.py runserver
     ```
 
-5. Access the application at [http://localhost:8000](http://localhost:8000).
+7. Access the application at [http://localhost:8000](http://localhost:8000).
 
 Feel free to explore and use the application as you would with Stack Overflow!
 
