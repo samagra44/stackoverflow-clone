@@ -1,5 +1,7 @@
 # Django Stack Overflow Clone   
 
+![Stack_Overflow-Logo wine](https://github.com/samagra44/StackoverflowClone/assets/77968722/2420ddbc-46bb-4b12-86d7-06b67d05885c)
+
 ## Project Overview: 
 This project is a StackOverflow clone developed using Python and Django, featuring a comprehensive set of functionalities commonly found in a question-and-answer platform. The application combines Django's powerful backend capabilities with HTML and CSS for the frontend to create an interactive and user-friendly experience.
 This web application is a replica of Stack Overflow, built using Python, Django, HTML, and CSS. Here's an in-depth guide to the project's features:
