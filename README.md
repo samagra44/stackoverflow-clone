@@ -1,5 +1,7 @@
-# Django Stack Overflow Clone
+# Django Stack Overflow Clone   
 
+## Project Overview: 
+This project is a StackOverflow clone developed using Python and Django, featuring a comprehensive set of functionalities commonly found in a question-and-answer platform. The application combines Django's powerful backend capabilities with HTML and CSS for the frontend to create an interactive and user-friendly experience.
 This web application is a replica of Stack Overflow, built using Python, Django, HTML, and CSS. Here's an in-depth guide to the project's features:
 
 ## 1. Basic Project Setup with Django
